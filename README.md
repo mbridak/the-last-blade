@@ -3,21 +3,30 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-The Last Blade platformer game made with Python and Pygame.
+<p align="center">
+    <img src="/Assets/icon.png" width="300" alt="The Last Blade Logo">
+</p>
 
-- Description: The Last Blade is a classic arcade style platformer where our ninja has to attack and kill enemies day after day.
+The Last Blade platformer game made with Python and Pygame engine.
+
+- Description (DEMO): The Last Blade is a classic arcade style platformer where our ninja has to attack and kill enemies day after day.
+- Possible upgrades: BOSS fights, More different levels, Earning points which you can use to upgrade attack, speed, armor etc.
+- Note: This game is a limited version (DEMO) of the full game. I also exploring options for a Steam release when it's done.
 
 # Requirements
+
 - Python 3.x
-- Pygame 
+- Pygame
 
 # Game Mechanics
+
 - <code>LEFT</code> Move Left
 - <code>RIGHT</code> Move Right
 - <code>UP</code> Slash
 - <code>SPACEBAR</code> Jump
 
 # Setup and Installation
+
 ```bash
 git clone <repo-url>
 ```
